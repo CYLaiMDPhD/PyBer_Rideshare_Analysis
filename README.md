@@ -19,6 +19,9 @@
 
 This report summarizes fare and ridership performance across three different city types for a fictional rideshare company, PyBer. Based on some basic analysis, recommendations for executives are discussed.
 
+**Data Source:**
+- Data were provided as csv files (Resources/city_data.csv and Resources/ride_data.csv) as part of course materials.
+
 ### Purpose
 We performed an anlysis of ride share data for our client at PyBer to evaluate ride and fare data across three different city types, urban, suburban, and rural. Using data provided by PyBer covering ride data from 2019, we analyzed driver counts, ride counts, and total fares to help gain insight into how to improve revenues with the platform. 
 
