@@ -1,11 +1,23 @@
 # PyBer_Analysis
 
-*Note: This repository was generated to fulfill assignments (Module 5 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Challenge submitted on 11-27-21 for grading. Corresponding jupyter notebooks for grading are "PyBer.ipynb" and "PyBer_Challenge.ipynb".*
+*Note: This repository was generated to fulfill assignments (Module 5 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.* 
+
+*Module exercises as demonstrated in notebooks matplotlib_practice.ipyhb, matplotlib_practice2.ipynb, PyBer_ride_data.ipynb, and PyBer.ipynb include:*
+
+- *Installing and using matplotlib*
+- *Creating basic charts (line, bar, scatter, pie) with matplotlib*
+- *Creaating charts using MATLAB and object-oriented approaches*
+- *Annotating and formatting charts*
+- *Data manipulation and analyses using pandas*
+- *Creating Bubble Charts*
+
+
+*The report below is based on code and analyses from PyBer.ipynb and PyBer_Challenge.ipynb.*
 
 
 ## Overview
 
-This report summarizes PyBer's fare and ridership performance across three different city types and presents recommendations for executives.
+This report summarizes fare and ridership performance across three different city types for a fictional rideshare company, PyBer. Based on some basic analysis, recommendations for executives are discussed.
 
 ### Purpose
 We performed an anlysis of ride share data for our client at PyBer to evaluate ride and fare data across three different city types, urban, suburban, and rural. Using data provided by PyBer covering ride data from 2019, we analyzed driver counts, ride counts, and total fares to help gain insight into how to improve revenues with the platform. 
