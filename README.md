@@ -5,8 +5,8 @@
 *Module exercises as demonstrated in notebooks matplotlib_practice.ipyhb, matplotlib_practice2.ipynb, PyBer_ride_data.ipynb, and PyBer.ipynb include:*
 
 - *Installing and using matplotlib*
-- *Creating basic charts (line, bar, scatter, pie) with matplotlib*
-- *Creaating charts using MATLAB and object-oriented approaches*
+- *Creating basic charts (line, bar, scatter, pie, box plots) with matplotlib*
+- *Creating charts using MATLAB and object-oriented approaches*
 - *Annotating and formatting charts*
 - *Data manipulation and analyses using pandas*
 - *Creating Bubble Charts*
