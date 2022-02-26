@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Rideshare Analysis
 
 *Note: This repository was generated to fulfill assignments (Module 5 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.* 
 
